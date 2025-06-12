@@ -77,4 +77,3 @@ People must own what AI does.
 
 ---
 
-Want this as a poster, badge set, or interactive quiz? I can whip that up for you!
