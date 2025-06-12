@@ -27,7 +27,7 @@ Responsible AI = designing smart systems that are safe, fair, and people-first.
 🏆 Mission: Build AI that’s smart *and* safe  
 💡 Powered by Microsoft + GitHub
 
-![Principles](../assets/six-principles-of-responsible-ai.png)
+![Principles](https://github.com/codess-aus/GHCopilot-ExamPrep/blob/96c54849f4a897bbad91687a51b9f7d7d3364c1a/assets/six-principles-of-responsible-ai.png)
 
 ### ⚖️ 1. **Fairness = No Favorites**
 AI should treat *everyone* like a VIP.  
