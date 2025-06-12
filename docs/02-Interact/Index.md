@@ -1,13 +1,7 @@
 
-```markdown
 # 🧠 Interact with GitHub Copilot  
-✅ Completed  
-🎯 100 XP  
-⏱️ 2 min
 
----
-
-## 🚀 What’s This Unit About?  
+## 🚀 What’s This About?  
 Learn how to vibe with GitHub Copilot like a pro.  
 Unlock shortcuts, features, and hacks to make your dev life smoother.
 
@@ -28,8 +22,6 @@ Copilot watches you type and drops code suggestions in real time.
 def calculate_average(numbers):
     # Start typing here and watch Copilot suggest the function body
 ```
-
----
 
 ## 🎛️ Command Palette = Shortcut Central  
 Access Copilot’s powers with a few keystrokes.
