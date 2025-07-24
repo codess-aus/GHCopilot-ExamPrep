@@ -4,13 +4,13 @@
 
 Select only one answer.
 
-[] - They determine the color scheme used by GitHub Copilot Chat.
+[ ] - They determine the color scheme used by GitHub Copilot Chat.
 
 
-[] - They control the volume of the audio output from GitHub Copilot Chat.
+[ ] - They control the volume of the audio output from GitHub Copilot Chat.
 
 
-[] - They specify the scope that GitHub Copilot should examine and the goal to be achieved.
+[ ] - They specify the scope that GitHub Copilot should examine and the goal to be achieved.
 
 
-[] - They influence the programming language used for code suggestions.
+[ ] - They influence the programming language used for code suggestions.
