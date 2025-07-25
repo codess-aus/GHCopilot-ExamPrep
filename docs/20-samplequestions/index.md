@@ -304,6 +304,158 @@ Select only one answer.
 - [ ] To optimize the code for better performance.
 
 
+## What is the primary purpose of project documentation in software development?
+
+Select only one answer.
+
+- [ ] To provide a detailed codebase for developers to use.
+
+
+- [ ] To generate a high-level overview for the end-users of the software.
+
+
+- [ ] To provide essential information for understanding the project's scope and purpose.
+
+
+- [ ] To create a timeline of the project's development history.
+
+
+## What is the purpose of generating inline code documentation in software development?
+
+Select only one answer.
+
+- [ ] To make the code more complex and challenging for other developers.
+
+
+- [ ] To create a more readable and maintainable codebase that's easier for other developers to understand and work with.
+
+
+- [ ] To increase the size of the codebase.
+
+
+- [ ] To showcase the developer's coding skills.
+
+
+## What types of code conversions can be completed using GitHub Copilot?
+
+Select only one answer.
+
+- [ ] Convert an entire code file, a function, or a code snippet to an image.
+
+
+- [ ] Convert an entire code file, a function, or a code snippet to another programming language.
+
+
+- [ ] Convert a programming language to a human language.
+
+
+- [ ] Convert compiled code back to source code.
+
+
+## What percentage of developers said that GitHub Copilot helps them code faster?
+
+Select only one answer.
+
+- [ ] 70%
+
+
+- [ ] 83%
+
+
+- [ ] 65%
+
+
+- [ ] 90%
+
+
+## What are the supported integrated development environment extensions for GitHub Copilot?
+
+Select only one answer.
+
+- [ ] Visual Studio Code and Visual Studio.
+
+
+- [ ] GitHub.com, Visual Studio Code, Visual Studio, Neovim, and JetBrains.
+
+
+- [ ] Visual Studio Code, Visual Studio, Neovim, and JetBrains.
+
+
+- [ ] Only Visual Studio Code.
+
+
+## After you enforced your GitHub Copilot for Business policy, where do you first navigate in order to enable Copilot for Business for all current and future users?
+
+Select only one answer.
+
+- [ ] Policies
+
+
+- [ ] Your organizations in your profile dropdown menu
+
+
+- [ ] Settings in your profile dropdown menu
+
+
+- [ ] Selected teams/users
+
+
+## Which of these advanced features aren't available in GitHub Copilot Enterprise but were available in GitHub Copilot Business?
+
+Select only one answer.
+
+- [ ] Copilot Chat Customized to your Codebase
+
+
+- [ ] Copilot Pull Request Summaries
+
+
+- [ ] Copilot Documentation Search and Summaries using Docsets
+
+
+- [ ] None of the above
+
+
+## Describe the purpose and benefits of Copilot's pull request summaries in GitHub Copilot Enterprise.
+
+Select only one answer.
+
+- [ ] They aim to provide a detailed history of code changes in pull requests.
+
+
+- [ ] They assist in automatically generating concise overviews of pull requests based on code changes, enhancing understanding and accelerating review processes.
+
+
+- [ ] They track developers' activity within a pull request.
+
+
+- [ ] They automatically merge pull requests without human intervention.
+
+## How can organizations manage and utilize docsets within Copilot Enterprise to tailor code suggestions and improve development workflows?
+
+Select only one answer.
+
+- [ ] By using docsets to create custom collections of internal code and documentation.
+
+
+- [ ] By using docsets to automatically generate code snippets.
+
+
+- [ ] By using docsets to track developers' activity within a project.
+
+
+- [ ] By using docsets to enforce coding standards.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
