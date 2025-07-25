@@ -176,6 +176,144 @@ Select only one answer.
 - [ ] It cannot learn and adapt based on user interactions.
 
 
+## Which of the following is NOT a step in the process of GitHub Copilot processing a user's prompt into a code suggestion?
+
+Select only one answer.
+
+- [ ] Statistical analysis and pattern recognition
+
+
+- [ ] Secure prompt transmission and context gathering
+
+
+- [ ] Content filtering to ensure safety and security
+
+
+- [ ] Context analysis to understand the user's intent
+
+
+## How does the Fill-in-the-Middle (FIM) technique enhance GitHub Copilot's code suggestions?
+
+Select only one answer.
+
+- [ ] By allowing Copilot to process larger code files more efficiently
+
+
+- [ ] By providing Copilot with access to more training data
+
+
+- [ ] By enabling Copilot to consider a wider context of code surrounding the cursor position
+
+
+- [ ] By improving Copilot's ability to understand natural language prompts
+
+
+## In the outbound flow of GitHub Copilot, which of the following actions might occur after the code suggestion is generated?
+
+Select only one answer.
+
+- [ ] The suggestion is immediately integrated into the user's code
+
+
+- [ ] The suggestion is presented to the user for review and acceptance
+
+
+- [ ] The suggestion is sent to a third-party server for evaluation
+
+
+- [ ] The suggestion is automatically deleted to protect user privacy
+
+
+## What happens when GitHub Copilot generates more than one code completion suggestion?
+
+Select only one answer.
+
+- [ ] It adds all of the suggestions to your code.
+
+
+- [ ] It selects the most relevant suggestion automatically.
+
+
+- [ ] It enables developers to review each suggestion by selecting the left or right arrows.
+
+
+- [ ] It discards all but the first suggestion.
+
+
+## Identify which statement is valid and select the correct answer:
+
+Select only one answer.
+
+- [ ] A prompt, which is our output, is a collection of songs that tells our copilot what to generate.
+
+
+- [ ] A prompt, which is our input, is a collection of instructions or guidelines that tell our copilot what to generate.
+
+
+- [ ] A prompt, which is our document, is a collection of laptops that tells our Copilot what to generate.
+
+
+- [ ] A prompt is a series of binary commands that control Copilot's behavior.
+
+
+## What does the quality of the output from GitHub Copilot depend on?
+
+Select only one answer.
+
+- [ ] Your code editor.
+
+
+- [ ] How well your extensions were installed.
+
+
+- [ ] How well you crafted your prompt.
+
+
+- [ ] The time of day you're coding.
+
+
+## What is the role of Large Language Models (LLMs) in GitHub Copilot?
+
+Select only one answer.
+
+- [ ] To manage user accounts and billing information
+
+
+- [ ] To understand and analyze the user's code structure
+
+
+- [ ] To generate context-aware code suggestions and respond to prompts
+
+
+- [ ] To compile and execute the generated code within the IDE
+
+
+## What is the purpose of code refactoring?
+
+Select only one answer.
+
+- [ ] To alter the external behavior or functionality of the code.
+
+
+- [ ] To improve the internal structure of the code without altering its external behavior or functionality.
+
+
+- [ ] To add new features or enhancements to the code.
+
+
+- [ ] To optimize the code for better performance.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
