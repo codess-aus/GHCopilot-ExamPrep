@@ -96,6 +96,88 @@ Select only one answer.
 - [ ] To prevent the generation of malicious or harmful code
 
 
+## What is the primary purpose of the toxicity filter in GitHub Copilot?
+
+Select only one answer.
+
+- [ ] To ensure code suggestions are syntactically correct
+
+
+- [ ] To prevent the generation of code that violates intellectual property rights
+
+
+- [ ] To eliminate harmful or offensive content in code suggestions
+
+
+- [ ] To suggest code that adheres to specific coding standards
+
+
+## How does GitHub Copilot determine the code completion suggestions it provides?
+
+Select only one answer.
+
+- [ ] Based on the context of code in the editor.
+
+
+- [ ] Based on the programming language used.
+
+
+- [ ] Based on the length of the code written.
+
+
+- [ ] Based on a random selection of popular coding patterns.
+
+
+## How does Copilot use an organization's codebase and internal knowledge to enhance productivity and collaboration?
+
+Select only one answer.
+
+- [ ] By providing code suggestions based on open-source libraries only
+
+
+- [ ] By tailoring coding assistance, answering questions, and suggesting code aligned with the organization's standards and best practices
+
+
+- [ ] By suggesting code without considering the project context
+
+
+- [ ] By randomly generating code snippets
+
+
+## How does GitHub Copilot work?
+
+Select only one answer.
+
+- [ ] GitHub Copilot uses prompts and natural language text that you type to provide coding suggestions.
+
+
+- [ ] GitHub Copilot uses lights that you type, and it provides suggestions based on what you type.
+
+
+- [ ] GitHub Copilot uses radio language that you type, and it provides suggestions based on what you type.
+
+
+- [ ] GitHub Copilot uses binary code input to generate suggestions.
+
+
+## How does GitHub Copilot learn from your prompts?
+
+Select only one answer.
+
+- [ ] It only relies on its pre-existing training data.
+
+
+- [ ] It utilizes various approaches including zero-shot, one-shot, and few-shot learning.
+
+
+- [ ] It requires extensive manual training on specific tasks.
+
+
+- [ ] It cannot learn and adapt based on user interactions.
+
+
+
+
 
 
 
