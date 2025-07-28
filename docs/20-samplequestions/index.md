@@ -447,7 +447,20 @@ Select only one answer.
 - [ ] By using docsets to enforce coding standards.
 
 
+## How does GitHub Copilot Chat propose fixes for bugs in your code?
 
+Select only one answer.
+
+- [ ] By running automated tests and identifying the root cause.
+
+
+- [ ] By suggesting code snippets and solutions based on the context of the error or issue.
+
+
+- [ ] By comparing your code with a database of known bug patterns.
+
+
+- [ ] By simulating various input scenarios to detect edge cases.
 
 
 
