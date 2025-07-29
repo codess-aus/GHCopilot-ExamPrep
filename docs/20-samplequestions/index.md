@@ -463,26 +463,52 @@ Select only one answer.
 - [ ] By simulating various input scenarios to detect edge cases.
 
 
-## What is the purpose of code refactoring?
+## What is the purpose of the Test Explorer in Visual Studio Code?
 
 Select only one answer.
 
-- [ ] To alter the external behavior or functionality of the code.
+- [ ] To write new code snippets for unit tests.
 
 
-- [ ] To improve the internal structure of the code without altering its external behavior or functionality.
+- [ ] To run and debug unit tests, view the results of test runs, and manage test cases in the workspace
 
 
-- [ ] To add new features or enhancements to the code.
+- [ ] To generate test cases based on the code context.
 
 
-- [ ] To optimize the code for better performance.
+- [ ] To automatically fix failing tests.
 
 
+## What is the significance of the Arrange, Act, and Assert sections in unit tests?
+
+Select only one answer.
+
+- [ ] They are used to organize the code in the main application.
 
 
+- [ ] They are used to structure unit tests into setup (Arrange), execution (Act), and verification (Assert) phases.
 
 
+- [ ] They are used to compile and run the unit tests.
+
+
+- [ ] They are used to generate documentation for the tests.
+
+
+## What does GitHub Copilot provide when creating unit tests for specific conditions?
+
+Select only one answer.
+
+- [ ] It provides a user interface for manually writing tests.
+
+
+- [ ] It automatically runs the tests and provides the results.
+
+
+- [ ] It suggests completions and generates tests based on the code context.
+
+
+- [ ] It creates a full test suite without any user input.
 
 
 
