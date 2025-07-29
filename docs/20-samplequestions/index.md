@@ -463,7 +463,20 @@ Select only one answer.
 - [ ] By simulating various input scenarios to detect edge cases.
 
 
+## What is the purpose of code refactoring?
 
+Select only one answer.
+
+- [ ] To alter the external behavior or functionality of the code.
+
+
+- [ ] To improve the internal structure of the code without altering its external behavior or functionality.
+
+
+- [ ] To add new features or enhancements to the code.
+
+
+- [ ] To optimize the code for better performance.
 
 
 
