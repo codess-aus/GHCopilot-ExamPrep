@@ -511,6 +511,20 @@ Select only one answer.
 - [ ] It creates a full test suite without any user input.
 
 
+## What is the benefit of using GitHub Copilot for generating unit tests?
+
+Select only one answer.
+
+- [ ] It reduces the need for manual testing.
+
+
+- [ ] It can suggest a range of unit tests based on the code context, saving development time.
+
+
+- [ ] It automatically fixes bugs in the code.
+
+
+- [ ] It guarantees 100% code coverage.
 
 
 
