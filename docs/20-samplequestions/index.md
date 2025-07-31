@@ -527,7 +527,20 @@ Select only one answer.
 - [ ] It guarantees 100% code coverage.
 
 
+## What is the purpose of generating assertions to ensure that function input parameters are valid?
 
+Select only one answer.
+
+- [ ] To enhance the performance of the function.
+
+
+- [ ] To prevent invalid data from being processed by the function.
+
+
+- [ ] To check if the function returns the expected output.
+
+
+- [ ] To document the function's expected inputs.
 
 
 
