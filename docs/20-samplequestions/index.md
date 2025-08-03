@@ -543,6 +543,20 @@ Select only one answer.
 - [ ] To document the function's expected inputs.
 
 
+## What is the difference between GitHub Copilot Business and GitHub Copilot Enterprise?
+
+Select only one answer.
+
+- [ ] GitHub Copilot Enterprise has code completions, while GitHub Copilot Business does not.
+
+
+- [ ] GitHub Copilot Enterprise has chat in IDE and mobile, while GitHub Copilot Business does not.
+
+
+- [ ] GitHub Copilot Enterprise has an extra layer of personalization, with organization utilizing their own codebase to train GitHub Copilot.
+
+
+- [ ] GitHub Copilot Enterprise has an extra layer of security, with IP indemnity and enterprise-grade security, safety, and privacy.
 
 
 
