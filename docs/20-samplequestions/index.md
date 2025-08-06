@@ -1,5 +1,8 @@
 # Sample Questions
 
+https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/practice/assessment?assessment-type=practice&assessmentId=218035372&practice-assessment-type=certification
+
+
 ## What is the importance of context and intent when developing prompts for GitHub Copilot Chat?
 
 Select only one answer.
