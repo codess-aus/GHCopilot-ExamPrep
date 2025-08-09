@@ -578,5 +578,18 @@ Select only one answer.
 - [ ] To track the performance of the AI over time.
 
 
+## What factors can be considered when working on code quality improvements?
 
+Select only one answer.
+
+- [ ] The number of lines of code in the program.
+
+
+- [ ] The time required to write code.
+
+
+- [ ] Readability, complexity, modularity, reusability, testability, extensibility, reliability, performance, security, scalability, usability, and portability.
+
+
+- [ ] The number of developers working on the project.
 
