@@ -610,6 +610,40 @@ Select only one answer.
 - [ ] The ability of the code to handle large amounts of data.
 
 
+## What is one way to improve code reliability?
+
+Select only one answer.
+
+- [ ] By optimizing algorithms and data structures for the task at hand.
+
+
+- [ ] By identifying potential issues in the code to prevent bugs and errors from occurring.
+
+
+- [ ] By minimizing disk and network I/O operations or performing them asynchronously.
+
+
+- [ ] By using the latest programming language features and syntax.
+
+ 
+## What is the effect of maintaining a high quality bar in your code when using GitHub Copilot?
+
+Select only one answer.
+
+- [ ] Copilot latches on to your code to generate suggestions that follow the existing pattern.
+
+
+- [ ] It confuses Copilot and leads to irrelevant suggestions.
+
+
+- [ ] It slows down the suggestion process.
+
+
+- [ ] It causes Copilot to ignore your existing code structure.
+
+
+
+
 
 
 
