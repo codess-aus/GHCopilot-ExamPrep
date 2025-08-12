@@ -658,8 +658,184 @@ Select only one answer.
 - [ ] Using try-catch blocks for every line of code and logging all exceptions to a public server.
 
 
+## Describe the purpose and benefits of Copilot's pull request summaries in GitHub Copilot Enterprise.
+
+Select only one answer.
+
+- [ ] They aim to provide a detailed history of code changes in pull requests.
+
+
+- [ ] They assist in automatically generating concise overviews of pull requests based on code changes, enhancing understanding and accelerating review processes.
+
+
+- [ ] They track developers' activity within a pull request.
+
+
+- [ ] They automatically merge pull requests without human intervention.
+
+
+## How can GitHub Copilot Chat assist in improving the modularity of a class?
+
+Select only one answer.
+
+- [ ] By suggesting potential refactoring updates based on the context of your codebase.
+
+
+- [ ] By providing a detailed analysis of the class's dependencies.
+
+
+- [ ] By automatically rewriting the entire class.
+
+
+- [ ] By generating unit tests for each method in the class.
+
+
+## how can GitHub Copilot Chat help generate explanations for unfamiliar code?
+
+Select only one answer.
+
+- [ ] By rewriting the code in a simpler language.
+
+
+- [ ] By generating natural language descriptions of the code's functionality and purpose.
+
+
+- [ ] By removing unnecessary parts of the code.
+
+
+- [ ] By providing links to external documentation for similar code structures.
+
+
+## How can GitHub Copilot Chat be used in the context of project documentation?
+
+Select only one answer.
+
+- [ ] To generate specific sections of the project documentation, such as the project overview, requirements, constraints, dependencies, and summary.
+
+
+- [ ] To communicate with the project stakeholders and gather their requirements.
+
+
+- [ ] To automatically write the entire codebase for the project.
+
+
+ - [ ] To create visual diagrams and charts for the documentation.
+
+
+## What are the two ways to generate code line completions using GitHub Copilot?
+
+Select only one answer.
+
+- [ ] Generate completions from a code line and from a code file.
+
+
+- [ ] Generate completions from a comment and from a code line.
+
+
+- [ ] Generate completions from a comment and from a prompt.
+
+
+- [ ] Generate completions from a function name and from a variable name.
+
+
+What is ghost text in GitHub Copilot?
+
+Select only one answer.
+
+Ghost text in GitHub Copilot are suggestions that appear in your text editor as you type.
+
+
+Ghost text in GitHub Copilot are options used when typing to provide suggestions.
+
+
+Ghost text in GitHub Copilot involves using prompts and natural language questions within your code or documentation.
+
+
+Ghost text in GitHub Copilot is a feature that automatically deletes unused code.
+
+
+## How do you access GitHub Copilot's inline chat?
+
+Select only one answer.
+
+Access the inline chat by clicking on the chat icon in the left sidebar of Visual Studio Code.
+
+
+Use Ctrl+i on Windows or Command+i on a Mac to open the inline chat.
+
+This answer is correct.
+
+Access the inline chat by using Alt+i on Windows or Option+i on a Mac.
+
+
+What are slash commands used for in GitHub Copilot?
+
+Select only one answer.
+
+Slash commands are used to format your codebase according to best practices.
+
+
+Slash commands are used to debug code and detect security vulnerabilities within your projects.
+
+
+Slash commands are shortcuts to quickly solve common development tasks within the chat or inline pane.
+
+
+Slash commands are used to switch between different programming languages.
+
+
+What are the benefits of using implicit prompts with slash commands in inline chat for fixing code issues with GitHub Copilot?
+
+Select only one answer.
+
+Implicit prompts help enforce a consistent naming convention and syntax based on best practices within Visual Studio Code projects for improved readability.
+
+
+Implicit prompts help get better responses from GitHub Copilot without writing longer prompts, making it easier to interact and fix code issues.
+
+
+Implicit prompts help detect security vulnerabilities and potential malicious activities within Visual Studio Code projects for increased safety.
+
+
+Implicit prompts automatically refactor your code to follow design patterns.
+
+**Implicit prompts with slash commands allow developers to quickly and efficiently communicate their intentions to GitHub Copilot without the need for lengthy explanations.**
+
+How can you accept GitHub Copilot's suggestions?
+
+Select only one answer.
+
+Press the &lt;kbd&gt;Tab&lt;/kbd&gt; key.
+
+
+Press the &lt;kbd&gt;F1&lt;/kbd&gt; key.
+
+
+Press the &lt;kbd&gt;F4&lt;/kbd&gt; key.
+
+
+Press the &lt;kbd&gt;Enter&lt;/kbd&gt; key.
+
+
+What are the benefits of using agents like '@terminal' or '@workspace' when interacting with GitHub Copilot?
+
+Select only one answer.
+
+Agents in Visual Studio Code help you ask questions within a specific context, allowing for more precise and relevant answers from GitHub Copilot.
+
+
+Agents help enforce a consistent code format based on best practices within Visual Studio Code for improved readability.
+
+
+Agents provide extra security features for detecting vulnerabilities and intrusions within Visual Studio Code projects.
+
+
+Agents automatically optimize your code for better performance.
 
 
 
 
 
+
+
+Type "/chat" anywhere in your code to open the inline chat.
