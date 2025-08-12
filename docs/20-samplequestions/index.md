@@ -642,7 +642,20 @@ Select only one answer.
 - [ ] It causes Copilot to ignore your existing code structure.
 
 
+## What are some ways to improve exception handling in code to make it more secure?
 
+Select only one answer.
+
+- [ ] Revealing sensitive information in exceptions, catching general exceptions only, and swallowing exceptions.
+
+
+- [ ] Catch the most specific exceptions possible, avoid revealing sensitive information in exceptions, and avoid swallowing exceptions.
+
+
+- [ ] Exposing detailed error information, catching only specific exceptions, and not rethrowing exceptions.
+
+
+- [ ] Using try-catch blocks for every line of code and logging all exceptions to a public server.
 
 
 
